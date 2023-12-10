@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBv+ChxHBxuqfeqQJBWlt404/sTOrFHHyybKOt65skmhhSR0pHSWWU72k9N5n5FkbdWzZBGV4oY8JnZnnNeHBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sajni Bercel\\source\\repos\\Typing_Cheat\\Typing_Cheat\\Typing_Cheat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sajni Bercel\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512",
+    "C:\\Users\\Sajni Bercel\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512",
+    "C:\\Users\\Sajni Bercel\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sajni Bercel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Sajni Bercel\\.nuget\\packages\\selenium.webdriver\\4.14.1\\selenium.webdriver.4.14.1.nupkg.sha512",
+    "C:\\Users\\Sajni Bercel\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'InputSimulator 1.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "InputSimulator",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
